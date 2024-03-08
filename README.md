@@ -35,14 +35,6 @@ GO to localhost->osTicket->open.php-> and then make a ticket with karen or ken. 
 <br />
 
 <p>
-<img src="https://i.imgur.com/uqUivVz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p> 
-<p>
-After creating the ticket login as jane doe and change the department of password reset to support or you can just assign it to John Doe because he is support.
-</p>
-<br />
-
-<p>
 <img src="https://i.imgur.com/fUeFE4N.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
